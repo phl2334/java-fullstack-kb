@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "09-Projects/sky-takeout/未命名.md",
+                "file": "99-MOCs/📋 苍穹外卖项目 MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "📋 苍穹外卖项目 MOC"
             }
           }
         ]
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "09-Projects/sky-takeout/未命名.md",
+                "file": "99-MOCs/📋 苍穹外卖项目 MOC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -199,10 +199,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8f5be5f097e9f2d9",
+  "active": "5a4437ee9bb26f58",
   "lastOpenFiles": [
-    "00-Inbox/README.md",
     "09-Projects/sky-takeout/未命名.md",
+    "00-Inbox/README.md",
     "99-Templates/T-Interview.md",
     "99-Templates/T-Project.md",
     "99-Templates/T-Daily.md",
