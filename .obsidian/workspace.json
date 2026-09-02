@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-Daily/README.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
@@ -201,8 +201,8 @@
   },
   "active": "8f5be5f097e9f2d9",
   "lastOpenFiles": [
-    "01-Daily/2026-08-31.md",
     "01-Daily/README.md",
+    "01-Daily/2026-08-31.md",
     "09-Projects/sky-takeout/未命名.md",
     "99-MOCs/📋 苍穹外卖项目 MOC.md",
     "00-Inbox/README.md",
