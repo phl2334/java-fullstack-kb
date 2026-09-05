@@ -1,11 +1,13 @@
 ---
-tags: [book]
+tags:
+  - book
 book_title: ""
 author: ""
-progress: 
-rating: 
-start_date: {{date:YYYY-MM-DD}}
-finish_date: 
+progress:
+rating:
+start_date:
+  "{ date:YYYY-MM-DD }":
+finish_date:
 ---
 
 # 《{{title}}》读书笔记

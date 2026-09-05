@@ -1,12 +1,14 @@
 ---
-tags: [algorithm]
-difficulty: 
-topic: 
+tags:
+  - algorithm
+difficulty:
+topic:
 status: unsolved
 leetcode_url: ""
-created: {{date:YYYY-MM-DD}}
-last_review: 
-next_review: 
+created:
+  "{ date:YYYY-MM-DD }":
+last_review:
+next_review:
 ---
 
 # {{title}}
