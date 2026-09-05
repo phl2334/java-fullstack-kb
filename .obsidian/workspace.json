@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "99-MOCs/📋 JVM MOC.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "📋 JVM MOC"
             }
           }
         ]
@@ -201,10 +201,16 @@
   },
   "active": "8f5be5f097e9f2d9",
   "lastOpenFiles": [
+    "99-MOCs/📋 Java 基础 MOC.md",
+    "99-MOCs/📋 Java 并发 MOC.md",
+    "99-MOCs/📋 算法刷题进度 MOC.md",
+    "99-MOCs/📋 秋招面试准备 MOC.md",
+    "99-MOCs/📋 全栈技术栈 MOC.md",
+    "99-MOCs/📋 苍穹外卖项目 MOC.md",
+    "README.md",
     "01-Daily/README.md",
     "01-Daily/2026-08-31.md",
     "09-Projects/sky-takeout/未命名.md",
-    "99-MOCs/📋 苍穹外卖项目 MOC.md",
     "00-Inbox/README.md",
     "99-Templates/T-Interview.md",
     "99-Templates/T-Project.md",
@@ -212,17 +218,11 @@
     "99-Templates/T-Concept.md",
     "99-Templates/T-Book.md",
     "99-Templates/T-Algorithm.md",
-    "99-MOCs/📋 全栈技术栈 MOC.md",
-    "99-MOCs/📋 Java 并发 MOC.md",
-    "99-MOCs/📋 Java 基础 MOC.md",
     "07-Frontend/README.md",
     "99-MOCs/📋 JVM MOC.md",
     "99-MOCs/README.md",
     "02-Algorithm/01-Array/Array-0001-TwoSum.md",
-    "99-MOCs/📋 秋招面试准备 MOC.md",
     "sky-takeout - 项目搭建与Git配置.md",
-    "README.md",
-    "99-MOCs/📋 算法刷题进度 MOC.md",
     "03-Java-Core/04-JVM/JVM - 运行时数据区域.md",
     "99-Templates/README.md"
   ]
