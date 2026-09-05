@@ -4,7 +4,7 @@ tags: [concept]
 status: seed
 domain: []
 source: ""
-created: {{date:YYYY-MM-DD}} {{time:HH:mm}}
+created: "{{date:YYYY-MM-DD}} {{time:HH:mm}}"
 reviewed: 
 ---
 
