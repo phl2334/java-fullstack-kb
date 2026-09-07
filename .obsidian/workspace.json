@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "8efca4ba34cb76d5",
+        "id": "4a037b50e37d1f50",
         "type": "tabs",
         "children": [
           {
-            "id": "ebd6b0379e64ca14",
+            "id": "863a661635b48b42",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -200,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ebd6b0379e64ca14",
+  "active": "863a661635b48b42",
   "lastOpenFiles": [
     "07-Frontend/01-HTML-CSS-JS/HTML.md",
     "2026-09-07.md",
