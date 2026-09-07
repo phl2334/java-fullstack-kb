@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:HTML！",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,17 +201,20 @@
   },
   "active": "756b0bce9abe09a2",
   "lastOpenFiles": [
+    "07-Frontend/01-HTML-CSS-JS/HTML.md",
+    "07-Frontend/01-HTML-CSS-JS/HTML.md",
+    "99-Templates/T-StudyNotes.md",
+    "99-Templates/T-Project.md",
+    "99-Templates/T-Book.md",
+    "99-Templates/T-Daily.md",
+    "99-Templates/T-Interview.md",
+    "README.md",
+    "99-Templates/README.md",
     "11-Books/README.md",
     "10-Interview/README.md",
     "09-Projects/README.md",
     "04-Framework/04-MyBatis/未命名.md",
-    "07-Frontend/01-HTML-CSS-JS/HTML.md",
-    "99-Templates/T-Interview.md",
-    "99-Templates/T-Project.md",
-    "99-Templates/T-Daily.md",
-    "99-Templates/T-Book.md",
     "99-Templates/T-Algorithm.md",
-    "99-Templates/README.md",
     "99-Templates/T-Concept.md",
     "未命名.base",
     "未命名.md",
@@ -224,9 +227,6 @@
     "99-MOCs/📋 全栈技术栈 MOC.md",
     "99-MOCs/📋 秋招面试准备 MOC.md",
     "99-MOCs/📋 苍穹外卖项目 MOC.md",
-    "99-MOCs/📋 算法刷题进度 MOC.md",
-    "08-SystemDesign/README.md",
-    "99-MOCs/📋 JVM MOC.md",
-    "99-MOCs/📋 Java 基础 MOC.md"
+    "99-MOCs/📋 算法刷题进度 MOC.md"
   ]
 }
