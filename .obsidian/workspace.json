@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "de97d96d83705f8a",
@@ -199,7 +200,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5a4437ee9bb26f58",
+  "active": "863a661635b48b42",
   "lastOpenFiles": [
     "07-Frontend/01-HTML-CSS-JS/HTML.md",
     "2026-09-07.md",
